@@ -1,0 +1,8 @@
+this is info
+upss error!
+┌───────────┬───────────┐
+│  (index)  │  Values   │
+├───────────┼───────────┤
+│ firstName │  'Bain'   │
+│ lastName  │ 'Nothing' │
+└───────────┴───────────┘
